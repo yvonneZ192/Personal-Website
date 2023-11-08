@@ -16,6 +16,4 @@ I am a Ph.D. student at School of Computing and Information, University of Pitts
 - **[Oct. 2023]** Our paper about confidence and explanation in human-automation teaming is accepted to HFES 2023.
 - **[Apr. 2023]** Our paper about human-machine cooperation in mixed traffic is accepted to CHI LBW 2023.
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
