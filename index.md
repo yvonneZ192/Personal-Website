@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at School of Computing and Information, University of Pittsburgh, working under the mentorship of Dr. Na Du. Prior to joining the Ph.D. program, I completed my master's degree in Information Science from University of Pittsburgh and my bachelor's degree in Computer Science from Sichuan University, China. My current research involves understanding human behavior changes during human-robot interaction, such as cooperation between human-driven vehicles and autonomous vehicles.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Human Factors:** cognitive ergonomics, safety engineering, human behavior modeling
+- **Human-robot Interaction:** human-machine cooperation, human-automation teaming, assistive robotics
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** Our paper about confidence and explanation in human-automation teaming is accepted to HFES 2023.
+- **[Apr. 2023]** Our paper about human-machine cooperation in mixed traffic is accepted to CHI LBW 2023.
 
 {% include_relative _includes/publications.md %}
 
