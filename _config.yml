@@ -13,13 +13,13 @@ canonical: https://yutongzhang.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/cv_yutongzhang.pdf
 linkedin: https://www.linkedin.com/in/yutong-zhang-427300199
 twitter: https://twitter.com/yutong2191
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/79FD9C85-5B7C-4A95-98A6-416C145586B4.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
